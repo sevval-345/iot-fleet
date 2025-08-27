@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+:root { color-scheme: light dark; }
+html, body, #root { height: 100%; }
+
+/* v4'te @apply kullanımı için utilities otomatik geliyor */
+body { @apply bg-white text-gray-900 dark:bg-gray-950 dark:text-gray-100; }
+
+/* Odak halkası */
+*:focus { outline: 2px solid #3b82f6; outline-offset: 2px; }
