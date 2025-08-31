@@ -29,19 +29,6 @@ Telekom operatörleri, kurumsal müşteriler veya büyük ölçekli IoT ağları
 - `POST /api/whatif/{sim_id}` → What-If senaryosu  
 
 ---
-# IoT Fleet UI
-
-![Filo Tablosu](docs\img\c:\Users\ASUS\OneDrive\Resimler\Ekran Görüntüleri\Ekran görüntüsü 2025-08-28 012309.png)
-
-
-![Filo Tablosu](docs\img2\c:\Users\ASUS\OneDrive\Resimler\Ekran Görüntüleri\Ekran görüntüsü 2025-08-28 012834.png)
-
-
-![SIM Detayı](docs\img3\c:\Users\ASUS\OneDrive\Resimler\Ekran Görüntüleri\Ekran görüntüsü 2025-08-28 013148.png)
-
-
-
-![SIM Detayı](docs\img4\c:\Users\ASUS\OneDrive\Resimler\Ekran Görüntüleri\Ekran görüntüsü 2025-08-28 013328.png)
 
 
 
